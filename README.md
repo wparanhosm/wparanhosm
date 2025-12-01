@@ -19,11 +19,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" title="SQL Server"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
 <hr>
-
-<h3>Analytics</h3>
-<p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wparanhosm&show_icons=true&theme=radical"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wparanhosm&hide=scss&layout=compact&theme=radical"/>
-</a>
-</p>
